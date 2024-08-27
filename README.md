@@ -2,7 +2,6 @@ LearningResourceMarketplace
 
 ![Screenshot 2024-08-27 173212](https://github.com/user-attachments/assets/62ac20ae-ac66-4938-abde-0521fcccae5f)
 
-
 ## Vision
 
 The *LearningResourceMarketplace* is a decentralized platform where educators and content creators can list their educational materials and resources for sale. The marketplace aims to provide a secure and transparent environment for the buying and selling of educational content, ensuring that creators are fairly compensated and buyers receive valuable, quality resources.
