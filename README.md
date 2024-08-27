@@ -11,6 +11,7 @@ By leveraging blockchain technology, this marketplace ensures that all transacti
  Flowchart
 
 plaintext
+
 +-------------------+       +--------------------+
 |   List Content    |       |    Purchase        |
 |                   |       |    Content         |
