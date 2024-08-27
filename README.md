@@ -86,7 +86,7 @@ Contract Address: 0xDAb59EC14e9cFBc5F6153E4682Cf293A86DfF441
 ## Contact
 
 **Developer:** Pema Choda  
-**Email:** pchoda123@gmail.com  
+**Email:** pchoda0123@gmail.com  
 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  https://www.linkedin.com/in/pema-choda-6b8527271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 **GitHub:** [Your GitHub](https://github.com/your-github) https://github.com/Pema-Choda
 
