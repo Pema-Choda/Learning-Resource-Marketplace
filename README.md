@@ -1,5 +1,7 @@
  Learning Resource Marketplace
 
+![Screenshot 2024-08-27 173212](https://github.com/user-attachments/assets/294afddb-2682-4bd6-9653-0c1f8e937604)
+
  Vision
 
 The Learning Resource Marketplace is a decentralized platform designed to facilitate the buying and selling of educational content. 
