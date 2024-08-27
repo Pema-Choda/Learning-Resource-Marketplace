@@ -14,10 +14,10 @@ plaintext
 +-------------------+       +--------------------+
 |   List Content    |       |    Purchase        |
 |                   |       |    Content         |
-| - Set Title        |       | - Send Payment     |
-| - Set Description  |       | - Confirm Payment  |
-| - Set Price        |       | - Mark as Sold     |
-| - Emit Event       |       | - Transfer Funds   |
+| - Set Title       |       | - Send Payment     |
+| - Set Description |       | - Confirm Payment  |
+| - Set Price       |       | - Mark as Sold     |
+| - Emit Event      |       | - Transfer Funds   |
 +-------------------+       +--------------------+
             |                          |
             |                          |
@@ -36,9 +36,9 @@ plaintext
 
  Contract Address
 
-[Contract Address Placeholder] : 0xDAb59EC14e9cFBc5F6153E4682Cf293A86DfF441
+[Contract Address Placeholder]
 
-> Please replace the placeholder with the actual contract address once deployed on the Ethereum network.
+> 0xDAb59EC14e9cFBc5F6153E4682Cf293A86DfF441
 
  Future Scope
 
